@@ -19,8 +19,8 @@ To write a C program to perform basic left and right shift operations on a given
 ```
 /*
 C program to perform basic left and right shift operations on a given integer and display the result.
-Developed by: Santhosh J
-RegisterNumber:  212223060248
+Developed by: Prathishkumar G
+RegisterNumber:  212223060206
 */
 #include <stdio.h>
 int main() {
